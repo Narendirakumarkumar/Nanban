@@ -1,0 +1,15 @@
+.card {
+  width: 300px;
+  display: inline-block;
+  /* margin: 20px; */
+  height: 225px;
+  margin-left: 30px;
+  margin-top: 50px;
+}
+h5 {
+  display: inline;
+  margin-left: 0px;
+}
+img {
+  height: 225px;
+}

@@ -1,0 +1,18 @@
+.form-register {
+  margin-top: 50px;
+  width: 1200px;
+  margin-left: 200px;
+}
+input[type="button"] {
+  margin-left: 10px;
+}
+.form-control {
+  border: 1px solid #007bff;
+}
+h1 {
+  margin-left: 130px;
+}
+h4 {
+  margin-left: 260px;
+  margin-bottom: 50px;
+}

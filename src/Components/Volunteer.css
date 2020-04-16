@@ -1,0 +1,35 @@
+.form-volunteer {
+  margin-top: 50px;
+  width: 1200px;
+  margin-left: 200px;
+}
+.form-control {
+  border: 1px solid #007bff;
+}
+label {
+  font-size: 22px;
+}
+.spnYes {
+  position: relative;
+  top: 45px;
+  left: -250px;
+}
+.spnNo {
+  position: relative;
+  top: 35px;
+  left: 55px;
+}
+#chkVehicleYes {
+  position: relative;
+  left: -150px;
+  top: 10px;
+}
+#chkVehicleNo {
+  position: relative;
+  top: 0px;
+  left: -150px;
+}
+.volunteer-header {
+  margin-left: 75px;
+  margin-bottom: 40px;
+}
